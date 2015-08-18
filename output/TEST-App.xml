@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="App" errors="0" tests="1" failures="0" time="0.028" timestamp="2015-08-18T12:32:04">
+  <testcase classname="App" name="renders with correct text" time="0.027"></testcase>
+</testsuite>
+</testsuites>
